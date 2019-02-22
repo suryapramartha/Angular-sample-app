@@ -1,4 +1,5 @@
 # Angular Sample App
+firebase deploy demo : https://angular-sample-app-6c964.firebaseapp.com
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
 
